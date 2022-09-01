@@ -1,0 +1,5 @@
+*
+!public/
+!.gitignore
+!data.xml
+!data_default.xml
